@@ -1,4 +1,4 @@
-# induction - Day 1
+# induction - Day 3
 
 # College Day - 02-08-25 (Saturday)
 
